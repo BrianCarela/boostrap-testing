@@ -1,3 +1,7 @@
+#banner{
+  background-image: url("../images/inner_me_banner.jpeg");
+}
+
 .container{
   background-color: teal;
 }
